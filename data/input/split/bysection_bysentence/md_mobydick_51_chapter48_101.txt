@@ -1,0 +1,2 @@
+It is used for catching turns with the
+whale line.
